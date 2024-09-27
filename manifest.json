@@ -1,0 +1,10 @@
+{
+	"id": "html-images",
+	"name": "HTML Images",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Display Local HTML Images with relative paths",
+	"author": "PiSaucer",
+	"authorUrl": "https://pisaucer.com",
+	"isDesktopOnly": false
+}
