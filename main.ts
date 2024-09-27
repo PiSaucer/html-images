@@ -2,7 +2,7 @@ const { Plugin, Platform } = require("obsidian");
 
 class HtmlLocalSrcPlugin extends Plugin {
   async onload() {
-    console.log("loaded HTML-Images plugin: v1.0.0");
+    console.log("loaded HTML-Images plugin: v1.0.1");
 
     // Reading Mode
     this.registerMarkdownPostProcessor((element) => {
